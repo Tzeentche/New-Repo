@@ -1,1 +1,1 @@
-# New-Repo
+# rsschool-codejam1-cv
